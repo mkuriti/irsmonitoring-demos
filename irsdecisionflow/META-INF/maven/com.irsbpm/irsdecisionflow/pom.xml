@@ -13,7 +13,7 @@
 	<description>IRS BPM :: IRS Application using jBPM and Drools Rules Engine for System Flow</description>
 
 	<properties>
-		<runtime.version>7.0.0.Final</runtime.version>
+		<runtime.version>7.60.0.Final</runtime.version>
 	</properties>
 
 	<repositories>
